@@ -1,1 +1,2 @@
-# mythrikulkarni.github.io
+# Mythri Kulkarni
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
